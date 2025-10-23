@@ -1,0 +1,17 @@
+# Node & Python
+node_modules/
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+*.env
+*.json
+# Build folders
+build/
+dist/
+
+# Vercel / Render / IDE files
+.vercel/
+.vscode/
+.DS_Store
